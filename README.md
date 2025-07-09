@@ -31,7 +31,7 @@ False Negative = 72
 ![ROC Curve](model_images/Roc_auc_curve.png)
 
 #### Pytorch 'Hooks' function and OpenCV is used visualizing the model's perspective:
-#### This makes expert intervention possible so that model we can adjust the learning if needed.
+#### This makes expert intervention possible so that we can adjust the learning of model if needed.
 
 ![Model_vision](model_images/focus.png)
 
