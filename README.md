@@ -30,8 +30,8 @@ False Negative = 72
 
 ![ROC Curve](model_images/Roc_auc_curve.png)
 
-#### Pytorch 'Hooks' function is used to focus in the last convolutional layer 
-#### so we can visualize the image from model's perspective
+#### Pytorch 'Hooks' function for visualizing the model's perspective:
+### Aim here is make expert intervention possible so that model learns the correct area of focusing.
 
 ![Model_vision](model_images/focus.png)
 
