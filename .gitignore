@@ -138,7 +138,6 @@ venv.bak/
 
 chest_xray/
 best_model.pth
-model_images/
 
 # Spyder project settings
 .spyderproject
