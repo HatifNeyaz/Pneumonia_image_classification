@@ -31,7 +31,7 @@ False Negative = 72
 ![ROC Curve](model_images/Roc_auc_curve.png)
 
 #### Pytorch 'Hooks' function for visualizing the model's perspective:
-### Aim here is make expert intervention possible so that model learns the correct area of focusing.
+#### This makes expert intervention possible so that model we can adjust the learning if needed.
 
 ![Model_vision](model_images/focus.png)
 
