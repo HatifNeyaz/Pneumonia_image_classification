@@ -1,6 +1,6 @@
 # Pneumonia X-Ray Image Classification task
 
-## Aim is to correctly classify Pneumonia using a CNN model & visualize the area where model focuses for prediction
+## Aim is to correctly classify Pneumonia using a CNN model & visualize the area where model is focusing
 
 #### X-Ray images after simple Transformation:
 
