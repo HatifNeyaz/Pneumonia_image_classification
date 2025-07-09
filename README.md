@@ -4,7 +4,7 @@
 
 #### X-Ray images after simple Transformation:
 
-![Transformation](r'model_images\only_transformed.png')
+![Transformation](model_images/only_transformed.png)
 
 
 #### Loss and Accuracy during training and validation:
@@ -18,7 +18,7 @@ Validation Accuracy: 0.8125
 
 #### Confusion Matrix:
 
-![Confusion_Matrix](r'model_images\Confusion_matrix.png')
+![Confusion_Matrix](model_images/Confusion_matrix.png)
 
 True Positives = 318
 True Negative = 201
@@ -28,12 +28,12 @@ False Negative = 72
 
 #### ROC Curve:
 
-![ROC Curve](r'model_images\Roc_auc_curve.png)
+![ROC Curve](model_images/Roc_auc_curve.png)
 
 #### Pytorch 'Hooks' function is used to focus in the last convolutional layer 
 #### so we can visualize the image from model's perspective
 
-![Model_vision](r'model_images\focus.png)
+![Model_vision](model_images/focus.png)
 
 
 
